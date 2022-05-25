@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: sans-serif;
+}
+.background{
+  background-color:lightgrey;
+  margin-bottom: 15px;
+}
+.container{
+  text-align:center;
+}
+.html{
+  width:80%;
+  background-color:limegreen;
+}
+.css{
+  width:60%;
+  background-color:yellow;
+  
+}
+.javascript{
+  width:40%;
+  background-color:orange;
+}
+.php{
+  width:20%;
+  background-color:red;
+}
